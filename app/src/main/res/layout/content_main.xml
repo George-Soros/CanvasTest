@@ -9,9 +9,9 @@
     tools:context="com.ttjjttjj.canvastest.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <com.ttjjttjj.canvastest.CanvasTest
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+    <!--<com.ttjjttjj.canvastest.CanvasTest-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"/>-->
 
 
 </RelativeLayout>
