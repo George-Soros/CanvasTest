@@ -1,11 +1,11 @@
 # CanvasTest
-这个demo展示了 canvas的translate ,scale , rotate, skew实现的不同的效果
+**这个demo展示了 canvas的translate ,scale , rotate, skew实现的不同的效果**
 
 ![image](https://github.com/George-Soros/CanvasTest/blob/master/scale.jpg)
 
 ![image](https://github.com/George-Soros/CanvasTest/blob/master/rotate.jpg)
 
-增加了canvas clip裁剪功能的test，
+**增加了canvas clip裁剪功能的test **
 
 参考于android apidemo clipping.class
 
