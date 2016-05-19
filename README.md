@@ -5,8 +5,12 @@
 
 ![image](https://github.com/George-Soros/CanvasTest/blob/master/rotate.jpg)
 
-增加了canvas clip裁剪功能的test，参考于android apidemo(
-自己的文件地址: F:\Android\sdk\samples\android-17\ApiDemos\src\com\example\android\apis\graphics)
+增加了canvas clip裁剪功能的test，
+
+参考于android apidemo clipping.class
+
+clipping.class: F:\Android\sdk\samples\android-17\ApiDemos\src\com\example\android\apis\graphics)
+
 ![image](https://github.com/George-Soros/CanvasTest/blob/master/clipping.jpg)
 
 详细讲解，参考文章：
