@@ -5,7 +5,7 @@
 
 ![image](https://github.com/George-Soros/CanvasTest/blob/master/rotate.jpg)
 
-**增加了canvas clip裁剪功能的test **
+**增加了canvas clip裁剪功能的test**
 
 参考于android apidemo clipping.class
 
